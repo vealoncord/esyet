@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @esyet
+- 👋 Hi, I’m @isis
 - 👀 I’m interested in scripting and networking 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me discord 3011#4209
-
-<!---
-esyet/esyet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m a C# , PY , JS Programmer
+- 📫 How to reach me discord 𝗜𝘀𝗶𝘀#0666
+- or join my server https://discord.gg/rjAzwtA5Y9
